@@ -64,3 +64,5 @@ https://docs.insecureshopapp.com
 * [Sergey Toshin](https://twitter.com/_bagipro) [(Oversecured)](https://oversecured.com): Thank you for your amazing research on Android security which prompted me to start this project
 
 Random update: 2353
+
+Random update: 2729
